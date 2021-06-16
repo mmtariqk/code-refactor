@@ -22,10 +22,9 @@ GitHub Repository URL: 2. https://github.com/mmtariqk/code-refactor
 c.  App Screenshots:
 
 <img width="486" alt="Hamburger Menu" src="https://user-images.githubusercontent.com/77028806/107129278-31287a80-6879-11eb-9de8-f915a1e202c0.png">
-<img width="727" alt="SEO-ID" src="https://user-images.githubusercontent.com/77028806/122135912-4cdaf900-cdf6-11eb-9351-30803087955f.png">
 <img width="484" alt="Mobile First" src="https://user-images.githubusercontent.com/77028806/107129292-430a1d80-6879-11eb-8118-03d3fbdb3cf5.png">
 <img width="1282" alt="Desktop" src="https://user-images.githubusercontent.com/77028806/107129303-561ced80-6879-11eb-968d-1643f763d217.png">
-
+...
 
 
 
